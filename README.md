@@ -1,0 +1,4 @@
+# Hostel-Manegement-System
+This software product the hostel management to improve their services for all the students of the hostel. 
+This also reduce the manual work of the persons in admin penal and the bundle of registers that were search when to find the information of a previous student, because through this system you can store the data of those students who had left the hostel . Through this you can check the personal profile of all the current students within few minutes the data base of the system will help you to check a particular one. The system will help you to check the mess bills of every student and the student’s hostel dues. The students of the hostel will be recognized from the ID number allocated at the room rental time.
+In the last this system will improve the management work in the hostel.
